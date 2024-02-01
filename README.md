@@ -11,3 +11,5 @@
 ### Approach for scaling
 
 - Currently the paths are hardcoded, we can use a hashmap to keep record of the restaurants Aman has visited and the customers Aman can deliver to.
+- Move functions to different modules.
+- Use command line/source file to parse the inputs.
